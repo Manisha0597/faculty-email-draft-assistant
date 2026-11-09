@@ -59,7 +59,9 @@ streamlit run app.py
 
 ## Screenshots
 
-Add 1–2 screenshots of the app here.
+<img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/e9c476e5-5853-4859-9909-1728ab12b21a" />
+<img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/1f78e776-c20a-4195-af5f-d7432f09d139" />
+
 
 ## Limitations and future work
 
