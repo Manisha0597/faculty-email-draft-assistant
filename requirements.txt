@@ -1,6 +1,8 @@
 streamlit
 langchain
 langchain-community
+langchain-text-splitters
 faiss-cpu
-openai
-tiktoken
+sentence-transformers
+python-dotenv
+requests
